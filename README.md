@@ -82,7 +82,7 @@ This structure allows the MindMarshal app to fetch and display hundreds of track
 ## 🌐 Dynamic Remote Loading (How the App Uses This Repo)
 
 The MindMarshal app fetches:
-https://YOUR_GITHUB_USERNAME.github.io/mindmarshal-audio/tracks.json (JEBenterprise247-Revive
+https://JEBenterprise247-Revive.github.io/mindmarshal-audio/tracks.json (JEBenterprise247-Revive
 .github.io in Bing)
 
 This JSON file defines:
